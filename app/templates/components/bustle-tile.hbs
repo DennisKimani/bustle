@@ -1,0 +1,8 @@
+<li>
+  {{bustle.name}}'s {{bustle.detail}}
+  {{#if isImageShowing }}
+  <p><img src={{bustle.image}} alt= {{bustle.detail}} {{action 'imageHide'}}></p>
+  {{else}}
+  <button {{action 'imageShow'}}>Show image</button>
+{{/if}}
+</li>

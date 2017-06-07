@@ -1,0 +1,19 @@
+{
+  "bustles": [{
+    "name": "Bryant Salt",
+    "detail": "Lives in somewhere in Nairobi located in Kenya.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbwAfFbZ8jIAgsgZ2UKXA1dIcR5zKllwBz66a0Yl0OKBIhuO8j"
+    }, {
+    "name": "Kelvin Waniana",
+    "detail": "Loves being a Kenyan, works in a law firm, has a beautiful family.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxkXB-m2YpabowIuwDfbbZdWPP5Jp7SHGROQZ-VeJcvBQ_4Oxk"
+    }, {
+    "name": "Bryan Memeti",
+    "detail": "Basketball player and a lover of music.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeDNcJFa4-Eg3QSSs5kN4tfYO3-FSb_sMFHYpxj3SI1SzayTocXA"
+    }, {
+    "name": "Adrian Cole",
+    "detail": "Super kenyan dancer and singer.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDYfEI45oN9uySfF_diLcvdi5vDh77WkwAT_UJGXWDGbEvG3B0"
+    }]
+}
